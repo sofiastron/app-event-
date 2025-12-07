@@ -20,7 +20,7 @@ Vous pouvez accéder à l'application ici : [Events App](https://ensa-voting.web
 
  ## Aperçu de l'application
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
-![Screenshot 3](assets/screenshot3.png)
-![Screenshot 4](assets/screenshot4.png)
+![Screenshot 1](src/assets/screenshot1.png)
+![Screenshot 2](src/assets/screenshot2.png)
+![Screenshot 3](src/assets/screenshot3.png)
+![Screenshot 4](src/assets/screenshot4.png)
