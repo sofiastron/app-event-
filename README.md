@@ -18,9 +18,3 @@ Vous pouvez accéder à l'application ici : [Events App](https://ensa-voting.web
 - Firebase Hosting
 - HTML / CSS / JavaScript
 
- ## Aperçu de l'application
-
-![Screenshot 1](src/assets/screenshot1.png)
-![Screenshot 2](src/assets/screenshot2.png)
-![Screenshot 3](src/assets/screenshot3.png)
-![Screenshot 4](src/assets/screenshot4.png)
